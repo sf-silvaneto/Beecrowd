@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main1015 {
+public class Main {
     public static void main(String[] args) {
         double x1, x2, y1, y2, distancia;
         Scanner scanner = new Scanner(System.in);

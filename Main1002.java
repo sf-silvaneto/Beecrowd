@@ -1,11 +1,8 @@
 import java.util.Scanner;
-import java.util.Locale;
 
-public class Main1002 {
+public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        scanner.useLocale(Locale.US);
-        
+        Scanner scanner = new Scanner(System.in);     
         double a = scanner.nextDouble();
         double r = 3.14159 * a * a;
 

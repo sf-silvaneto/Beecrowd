@@ -1,9 +1,8 @@
 import java.util.Scanner;
-import java.util.Locale;
 
-public class Main1008 {
+public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+        Scanner scanner = new Scanner(System.in);
         int f, h;
         double s, r;
 
