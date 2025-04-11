@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main1010 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n1, n2, q1, q2;
@@ -15,8 +15,6 @@ public class Main {
         Double total = (q1 * v1) + (q2 * v2);  
         System.out.printf("VALOR A PAGAR: R$ %.2f\n", total);
 
-
     }
 
-    
 }
