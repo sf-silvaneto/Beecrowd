@@ -17,6 +17,7 @@ public class Main1037 {
         }else{
             System.out.println("Fora de intervalo");
         }
+        
     scan.close();
     }
 }
