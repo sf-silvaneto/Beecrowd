@@ -22,6 +22,4 @@ public class Main1047 {
     }
     scan.close();
     }
-} {
-    
 }

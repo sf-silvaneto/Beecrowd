@@ -16,8 +16,7 @@ public class Main1037 {
             System.out.println("Intervalo (75,100]");
         }else{
             System.out.println("Fora de intervalo");
-        }
-        
+        }        
     scan.close();
     }
 }

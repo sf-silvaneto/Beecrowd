@@ -27,10 +27,7 @@ public class Main1021 {
             System.out.printf("%d moeda(s) de R$ %.2f\n",qtd_moedas, valor[i]);
             dinheiro -= qtd_moedas * valor[i];
             dinheiro = Math.round(dinheiro * 100.0)/100.0;
-        }
-        
-        
+        }    
         scan.close();
-
     } 
 }

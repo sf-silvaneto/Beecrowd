@@ -13,8 +13,7 @@ public class Main1035 {
             System.out.println("Valores aceitos");
         } else {
             System.out.println("Valores nao aceitos");
-        }
-        
+        }       
         scan.close();
     }
 }
