@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
  
 public class Main {
@@ -23,6 +24,7 @@ public class Main {
             System.out.println("Belo Horizonte");
         }
         else{
+            System.out.println("DDD nao cadastrado");
         }
        scan.close();
     }
