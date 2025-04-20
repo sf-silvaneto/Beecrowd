@@ -1,4 +1,4 @@
-public import java.util.Scanner;
+import java.util.Scanner;
 
 public class Main1047 {
     public static void main(String[] args){
