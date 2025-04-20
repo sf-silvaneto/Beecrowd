@@ -20,7 +20,6 @@ public class Main1038 {
         } else {
             System.out.println("Código inválido.");
         }
-
         scan.close();
     }
 }
